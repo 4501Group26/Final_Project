@@ -156,7 +156,13 @@ cython_debug/
 *.csv
 *.parquet
 *.sqlite3
-*sql
 *.pyi
 *.db
-*db-journal
+*.db-journal
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.shp.xml
+*.shx
