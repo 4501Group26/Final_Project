@@ -1,0 +1,16 @@
+folium 
+plugins
+numpy
+math
+radians, cos, sin, asin, sqrt
+bs4
+matplotlib.pyplot
+pandas
+requests
+sqlalchemy
+text
+re
+geopandas
+exists
+pyarrow
+fastparquet
