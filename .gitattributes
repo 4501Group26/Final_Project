@@ -1,0 +1,6 @@
+# Prevent large images from causing issues on the repository
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
