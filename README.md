@@ -10,4 +10,4 @@ We wrote 7 queries to files and gained some results from writteb queries.
 We utilized Pandas, matplotlib, and other packages to visualize data to find patterns and relationships.
 ## Group 26
 Project Group 26
-UNIs: [ym2918 zl3215]
+UNIs: [ym2918, zl3215]
